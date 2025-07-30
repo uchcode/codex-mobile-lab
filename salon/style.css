@@ -4,10 +4,11 @@ body {
   margin: 0;
   padding: 0;
   color: #333;
+  background-color: #ffe6f1; /* light pink background */
 }
 
 header {
-  background-color: #f4a460;
+  background-color: #ff69b4; /* bright pink header */
   color: #fff;
   padding: 1rem;
   text-align: center;
@@ -33,7 +34,7 @@ section {
 }
 
 footer {
-  background-color: #333;
+  background-color: #ff69b4; /* bright pink footer */
   color: #fff;
   text-align: center;
   padding: 1rem;
